@@ -1,4 +1,5 @@
-### Hi there, I'm DanteBenicio 👋
+### Olá, Bem vindo ao meu perfil! 😃
+### Meu nome é Dante Benicio 😊
 
 - 💻 Minha Stack: <strong>React | Next.js | Typescript | Javascript | SCSS | CSS | Styled-Components</strong>
 - 🧰 Ferramentas para Desenvolvimento: <strong>Visual Studio Code, Figma</strong>
