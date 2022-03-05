@@ -1,6 +1,7 @@
 ### Hi there, I'm DanteBenicio 👋
 
-- 💻 I’m currently learning - React | Next | Typescript | Javascript | SCSS | Styled-Components
+- 💻 Minha Stack: <strong>React | Next.js | Typescript | Javascript | SCSS | CSS | Styled-Components</strong>
+- 🧰 Ferramentas para Desenvolvimento: <strong>[Visual&nbsp;Studio&nbsp;Code](https://code.visualstudio.com/)</strong>
 
 ##
 
