@@ -1,4 +1,4 @@
-### Olá, Bem vindo ao meu perfil! 😃
+### Olá, Bem vindo(a) ao meu perfil! 😃
 ### Meu nome é Dante Benicio 😊
 
 - 💻 Minha Stack: <strong>React | Next.js | Typescript | Javascript | SCSS | CSS | Styled-Components</strong>
